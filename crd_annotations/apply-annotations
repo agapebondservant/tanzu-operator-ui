@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#!/bin/sh
 SCRIPT_DIR="$( dirname "${BASH_SOURCE[0]}")"
 
 TSQL_LABEL_KEY="sql.tanzu.vmware.com/catalog"
